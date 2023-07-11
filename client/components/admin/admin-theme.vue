@@ -152,7 +152,7 @@ export default {
         { text: 'Font Awesome 4', value: 'fa4' }
       ],
       config: {
-        theme: 'default',
+        theme: 'casaos',
         darkMode: false,
         iconset: '',
         injectCSS: '',
